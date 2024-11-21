@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\models\\productsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\models\\productsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\migrations\\20241120211233_createdbandcreateslidestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\migrations\\20241120211233_createdbandcreateslidestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|c:\\users\\ismayil\\desktop\\pronia appsettings\\proniaapplication\\proniaapplication\\migrations\\20241121192558_createcategoriesandproductsandproductsimagestables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F7A321-E19A-49BC-9AF2-62CAB5757F94}|ProniaApplication\\ProniaApplication.csproj|solutionrelative:proniaapplication\\migrations\\20241121192558_createcategoriesandproductsandproductsimagestables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProniaApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAowDsGAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T20:16:59.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241121192558_CreateCategoriesAndProductsAndProductsImagesTables.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Migrations\\20241121192558_CreateCategoriesAndProductsAndProductsImagesTables.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Migrations\\20241121192558_CreateCategoriesAndProductsAndProductsImagesTables.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Migrations\\20241121192558_CreateCategoriesAndProductsAndProductsImagesTables.cs",
+              "RelativeToolTip": "ProniaApplication\\Migrations\\20241121192558_CreateCategoriesAndProductsAndProductsImagesTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:25:59.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsImage.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\ProductsImage.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Models\\ProductsImage.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\ProductsImage.cs",
+              "RelativeToolTip": "ProniaApplication\\Models\\ProductsImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:16:50.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Category.cs",
+              "RelativeToolTip": "ProniaApplication\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:09:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Product.cs",
+              "RelativeToolTip": "ProniaApplication\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:05:48.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\appsettings.json",
+              "RelativeToolTip": "ProniaApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T14:40:30.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "ProniaApplication\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:18:23.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241120211233_CreateDBandCreateSlidesTable.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Migrations\\20241120211233_CreateDBandCreateSlidesTable.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Migrations\\20241120211233_CreateDBandCreateSlidesTable.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Migrations\\20241120211233_CreateDBandCreateSlidesTable.cs",
+              "RelativeToolTip": "ProniaApplication\\Migrations\\20241120211233_CreateDBandCreateSlidesTable.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:12:37.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "ProniaApplication\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:49:16.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ProniaApplication\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:40:16.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ProniaApplication\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:43:18.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Models\\Slide.cs",
+              "RelativeToolTip": "ProniaApplication\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:23:05.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaApplication\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ProniaApplication\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:15:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ProniaApplication\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:14:35.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T14:08:12.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T14:07:29.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProniaApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:04:14.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ismayil\\Desktop\\Pronia Appsettings\\ProniaApplication\\ProniaApplication\\Program.cs",
+              "RelativeToolTip": "ProniaApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:03:48.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
